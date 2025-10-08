@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ZWADA - Contato</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <h1 class="logo">ZWADA</h1>
+    <nav>
+      <a href="index.html">PRINCIPAL</a>
+      <a href="lives.html">LIVES</a>
+      <a href="galeria.html">GALERIA</a>
+      <a href="contato.html" class="active">CONTATO</a>
+    </nav>
+  </aside>
+
+  <main class="content">
+    <h2>Contato</h2>
+    <p>📡 <a href="https://function.fm" target="_blank">function.fm</a></p>
+    <p>📷 <a href="https://instagram.com/svx.wav" target="_blank">@svx.wav</a></p>
+    <p>✉️ contato: <a href="mailto:zwadaprogram@gmail.com">zwadaprogram@gmail.com</a></p>
+  </main>
+</body>
+</html>
